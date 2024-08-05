@@ -29,7 +29,7 @@ Feel free to check out my repositories to see what I'm working on! I'm always ex
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/eaub/)
-- [Email](mailto:eaub@proton.me)
+- [Email](eaub@proton.me)
 
 Looking forward to connecting with you!
 
