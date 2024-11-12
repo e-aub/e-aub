@@ -5,7 +5,7 @@
 
 ## About Me
 
-👋 Hi there! I'm currently a trainee at [Zone01Oujda](https://zone01oujda.ma/) [01Talent](https://01talent.com/), where I am honing my skills as a Full Stack Developer.
+👋 Hi there! I'm currently a Talent at [Zone01Oujda](https://zone01oujda.ma/) [01Talent](https://01talent.com/), where I am honing my skills as a Full Stack Developer.
 
 ## Skills & Interests
 
@@ -17,8 +17,8 @@
 ## Current Focus
 
 I’m particularly focused on improving my skills in:
-- Backend frameworks and languages (e.g., Node.js, Golang, C)
-- Database systems (e.g., MySQL, MongoDB)
+- Backend frameworks and languages (Node.js, Golang, C)
+- Database systems (sqlite, MySQL, MongoDB)
 - Problem-solving techniques and algorithm optimization
 
 ## Projects
