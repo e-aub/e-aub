@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-aub&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-aub&langs_count=10&layout=donut)
 # Welcome to My GitHub Profile!
 
 ## About Me
