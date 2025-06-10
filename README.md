@@ -1,7 +1,3 @@
-## Hi there 👋
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-aub&langs_count=10&layout=donut)
-
 # Welcome to My GitHub Profile! 
 
 ## About Me
@@ -17,6 +13,8 @@
 - 🗃️ **Databases**: Using **SQLite**, **PostgreSQL**, and exploring **MongoDB**.
 - 🎨 **Design**: Learning UI/UX with tools like **Figma** and **Photoshop** (currently at an intermediate level).
 - 🧩 **Problem Solving**: Love tackling logic puzzles and optimizing algorithms.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-aub&langs_count=10&layout=donut)
 
 ## Projects
 
