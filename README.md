@@ -6,7 +6,6 @@
 
 ## Skills & Interests
 
-- 💻 **Full Stack Development**: Working on both front-end and back-end solutions.
 - 🛠️ **Backend**: Building APIs and working with technologies like **Golang**, **Node.js**, and currently learning **Rust**.
 - 🖥️ **Frontend**: Developing user interfaces with **React**, **JavaScript**, and **Next.js**.
 - 📱 **Mobile**: Creating cross-platform apps using **Flutter**.
