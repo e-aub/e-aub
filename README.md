@@ -22,7 +22,7 @@ Feel free to check out my repositories! I'm always open to collaboration and lea
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/eaub/) 
-- [Email](eaub@proton.me)
+- **Email**: [eaub@proton.me](mailto:eaub@proton.me)
 
 Looking forward to connecting with you!
 
